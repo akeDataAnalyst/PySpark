@@ -1,5 +1,5 @@
 # PySpark Machine Learning Problem statement
-This is biginner mini project which pridict Salary of Employee based on age column and experiance column
+This is biginner mini project which predicts Salary of Employees based on age column and experiance column
 It includes 
 - Reading of the data set
 - Checking of the schema
